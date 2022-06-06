@@ -1,0 +1,23 @@
+{
+  "name": "regexp-dictionary",
+  "version": "1.0.0",
+  "description": "前端常用正则库",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hymhub/regexp-dictionary.git"
+  },
+  "keywords": [
+    "regexp"
+  ],
+  "type": "module",
+  "author": "hym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hymhub/regexp-dictionary/issues"
+  },
+  "homepage": "https://github.com/hymhub/regexp-dictionary#readme"
+}
