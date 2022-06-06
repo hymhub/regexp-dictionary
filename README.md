@@ -1,3 +1,6 @@
+# regexp-dictionary
+前端常用正则表达式合集，欢迎提交 PR 补充或修改
+
 # 安装
 ```shell
 npm install regexp-dictionary
