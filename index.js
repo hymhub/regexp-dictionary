@@ -129,12 +129,6 @@ export const SOCIAL_CREDIT_CODE_REG =
 export const BUSINESS_LICENSE_REG = /^[0-9A-Z]{18}$/;
 
 /**
- * 驾驶证
- */
-export const DRIVER_LICENSE_REG =
-  /^[京津沪渝冀豫云辽黑湘皖鲁新苏浙赣鄂桂甘晋蒙陕吉闽贵粤青藏川宁琼使领A-Z]{1}[A-Z]{1}[A-Z0-9]{4}[A-Z0-9挂学警港澳]{1}$/;
-
-/**
  * 火车票
  */
 export const TRAIN_TICKET_REG = /^[A-Z]{2}[0-9]{1,4}$/;
