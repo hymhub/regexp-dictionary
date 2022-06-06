@@ -1,14 +1,15 @@
-# Install
+# 安装
 ```shell
 npm install regexp-dictionary
 ```
-# Usage
+# 使用
 ```js
 import { EMAIL_REG, MOBILE_REG, DOMAIN_REG, WEBSITE_REG } from "regexp-dictionary";
 EMAIL_REG.test('test@qq.com') // true
 MOBILE_REG.test('13980809090') // true
 DOMAIN_REG.test('www.baidu.com') // true
 WEBSITE_REG.test('https://www.baidu.com/s?ie=UTF-8&wd=hello%20world') // true
+// 更多正则 Ctrl + F 搜索关键字或者往下滑看全部 RegExp 源码
 
 ```
 
